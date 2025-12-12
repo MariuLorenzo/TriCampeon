@@ -1,7 +1,7 @@
 # TriCampeones
-# Trabajo de Simulacion 2: Estadísticas y Probabilidades
+## Trabajo de Simulacion 2: Estadísticas y Probabilidades
 ---
-## "El problema del coleccionista de cartas" :sparkles: 
+"El problema del coleccionista de cartas" :sparkles: 
 _En este Trabajo de Simulación, se verá qué ocurre con un problema que alguna vez, casi con seguridad, nos tocó de cerca: ¡llenar un álbum de figuritas! 
 Incluso, vamos someter a prueba esa intuición que, todos los que alguna vez coleccionamos figuritas, tenemos: ¿hay figuritas difíciles?
 Para esta simulación, voy a programar un problema clásico: el coupon collector's problem.
