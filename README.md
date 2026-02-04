@@ -1,5 +1,5 @@
 # TriCampeones
-## Trabajo de Simulacion 2: Estadísticas y Probabilidades
+## Simulación : Estadísticas y Probabilidades
 ---
 "El problema del coleccionista de cartas" :sparkles: 
 ---
