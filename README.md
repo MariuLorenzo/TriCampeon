@@ -3,7 +3,7 @@
 ---
 "El problema del coleccionista de cartas" :sparkles: 
 ---
-_En este Trabajo de Simulación, se verá qué ocurre con un problema que alguna vez, casi con seguridad, nos tocó de cerca: ¡llenar un álbum de figuritas! 
+_En esta Simulación, se verá qué ocurre con un problema que, alguna vez, casi con seguridad, nos tocó de cerca: ¡llenar un álbum de figuritas! 
 Incluso, vamos someter a prueba esa intuición que, todos los que alguna vez coleccionamos figuritas, tenemos: ¿hay figuritas difíciles?
 Para esta simulación, voy a programar un problema clásico: el coupon collector's problem.
 El problema del coupon collector, con una formulación equivalente pero mucho más interesante: imaginemos que queremos llenar un álbum de figuritas ¡el del Mundial 2022!, que luego de haber salido campeones es ideal para coleccionar, ¿no?...Pensemos ¿cuántos paquetes, en promedio, necesitamos comprar para conseguirlo?_
