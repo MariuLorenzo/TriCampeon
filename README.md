@@ -10,7 +10,9 @@ El problema del coupon collector, con una formulación equivalente pero mucho m�
 ---
 
 ## Despliegue 📦
-\## 🛠️ Abre y ejecuta el proyecto
+\## 🛠️ 
+* Abre el archivo .ipynb para ver los resultados de la simulación. 
+* También, puedes copiar el archivo y ejecutarlo en un Google Colab.
 
 
 ## Construido con 🛠️
